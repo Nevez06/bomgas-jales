@@ -1,7 +1,7 @@
 window.BUSINESS_CONFIG = Object.freeze({
-  // Use apenas números, com DDI e DDD. Exemplo: 5517999999999.
-  whatsapp: "5517999999999",
-  phone: "5517999999999",
+  // Use apenas números, com DDI e DDD.
+  whatsapp: "5517996129995",
+  phone: "5517996129995",
   city: "Jales - SP",
   hours: "Confirme o horário atualizado pelo WhatsApp ou telefone.",
   address: "Jales - SP",

@@ -38,8 +38,8 @@ Edite somente o arquivo `js/config.js` para atualizar:
 Os telefones devem conter apenas números, incluindo DDI e DDD. Exemplo:
 
 ```js
-whatsapp: "5517999999999",
-phone: "5517999999999",
+whatsapp: "5517996129995",
+phone: "5517996129995",
 ```
 
 O botão de avaliações fica desabilitado enquanto `googleReviews` estiver vazio.
@@ -78,4 +78,4 @@ https://nevez06.github.io/bomgas-jales/
 
 ## Observação antes da publicação comercial
 
-Os números atuais em `js/config.js` são valores de configuração existentes no projeto. Confirme o WhatsApp, telefone, horário, endereço e links do Google antes de divulgar o site.
+O telefone e o WhatsApp estão configurados como `+55 17 99612-9995`. Confirme também o horário, endereço e links do Google antes de divulgar o site.
