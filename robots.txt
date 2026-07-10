@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nevez06.github.io/bomgas-jales/sitemap.xml

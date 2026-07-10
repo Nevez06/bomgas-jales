@@ -1,0 +1,23 @@
+{
+  "name": "Bom Gás Ultragaz Jales",
+  "short_name": "Bom Gás",
+  "description": "Entrega de gás Ultragaz e água mineral em Jales - SP.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0057b8",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./favicon/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicon/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
